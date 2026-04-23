@@ -28,7 +28,7 @@ that hold up under real load.
 |---------|-------------|-------|
 | [Mediflow](https://github.com/muharib-0/Mediflow) | Hospital management with AWS Lambda scheduling | Django · PostgreSQL · AWS Lambda |
 | [Jarnox](https://github.com/muharib-0/jarnox-stock-analyzer) | Stock analysis and visualization | FastAPI · PostgreSQL · Chart.js |
-| [company-finance-project](https://github.com/muharib-0/company-finance-project) | LLM-powered context-aware reply generator | Python · Gemini API |
+| [company-finance-project](https://github.com/muharib-0/company-finance-project) |Internal Company finance Software | Python · Django|
 
 ---
 
